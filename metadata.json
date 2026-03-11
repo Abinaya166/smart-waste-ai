@@ -1,0 +1,5 @@
+{
+  "name": "Smart Waste Segregation AI",
+  "description": "An AI-powered system that classifies waste into Plastic, Paper, and Metal using deep learning and real-time computer vision.",
+  "requestFramePermissions": ["camera"]
+}
